@@ -1,0 +1,69 @@
+N	t	pFDR	Subdivision	Network	Session	Side	Dataset
+5	NA	NA	Anterior	DMN	Baseline	L	RUB
+8	NA	NA	Anterior	LFPN	Baseline	L	RUB
+8	NA	NA	Anterior	DMN	Baseline	L	UNIBA
+2	NA	NA	Anterior	LFPN	Baseline	L	UNIBA
+17	-1.979	0.1692	Medial	DMN	Baseline	L	RUB
+13	0.985	0.3348	Medial	LFPN	Baseline	L	RUB
+33	-2.58	0.03955	Medial	DMN	Baseline	L	UNIBA
+32	2.945	0.00678	Medial	LFPN	Baseline	L	UNIBA
+16	-0.225	0.882	Ventral	DMN	Baseline	L	RUB
+14	-1.396	0.3348	Ventral	LFPN	Baseline	L	RUB
+20	-0.489	0.8764	Ventral	DMN	Baseline	L	UNIBA
+6	NA	NA	Ventral	LFPN	Baseline	L	UNIBA
+13	0.15	0.882	Posterior	DMN	Baseline	L	RUB
+9	NA	NA	Posterior	LFPN	Baseline	L	RUB
+27	-1.369	0.406	Posterior	DMN	Baseline	L	UNIBA
+18	-2.764	0.00678	Posterior	LFPN	Baseline	L	UNIBA
+3	NA	NA	Anterior	DMN	Baseline	R	RUB
+10	-0.536	0.5973	Anterior	RFPN	Baseline	R	RUB
+17	-0.929	0.62125	Anterior	DMN	Baseline	R	UNIBA
+16	-0.012	0.99	Anterior	RFPN	Baseline	R	UNIBA
+15	-1.802	0.1692	Medial	DMN	Baseline	R	RUB
+16	2.994	0.0259	Medial	RFPN	Baseline	R	RUB
+36	-4.06	0.000676	Medial	DMN	Baseline	R	UNIBA
+37	4.363	0.000154	Medial	RFPN	Baseline	R	UNIBA
+8	NA	NA	Ventral	DMN	Baseline	R	RUB
+13	1.362	0.3726	Ventral	RFPN	Baseline	R	RUB
+30	0.154	0.962	Ventral	DMN	Baseline	R	UNIBA
+21	-1.019	0.5183	Ventral	RFPN	Baseline	R	UNIBA
+8	NA	NA	Posterior	DMN	Baseline	R	RUB
+12	-0.586	0.5973	Posterior	RFPN	Baseline	R	RUB
+30	0.048	0.962	Posterior	DMN	Baseline	R	UNIBA
+14	-2.656	0.02295	Posterior	RFPN	Baseline	R	UNIBA
+1	NA	NA	Anterior	DMN	Post-encoding	L	RUB
+9	NA	NA	Anterior	LFPN	Post-encoding	L	RUB
+13	2.176	0.2	Medial	DMN	Post-encoding	L	RUB
+8	NA	NA	Medial	LFPN	Post-encoding	L	RUB
+12	-0.8	0.72	Ventral	DMN	Post-encoding	L	RUB
+10	0.681	0.5028	Ventral	LFPN	Post-encoding	L	RUB
+10	-0.866	0.72	Posterior	DMN	Post-encoding	L	RUB
+13	1.040	0.5028	Posterior	LFPN	Post-encoding	L	RUB
+5	NA	NA	Anterior	DMN	Post-encoding	R	RUB
+18	0.731	0.629	Anterior	RFPN	Post-encoding	R	RUB
+17	-0.473	0.7518	Medial	DMN	Post-encoding	R	RUB
+15	1.36	0.629	Medial	RFPN	Post-encoding	R	RUB
+16	-0.320	0.7518	Ventral	DMN	Post-encoding	R	RUB
+17	0.847	0.629	Ventral	RFPN	Post-encoding	R	RUB
+9	NA	NA	Posterior	DMN	Post-encoding	R	RUB
+11	-0.247	0.8073	Posterior	RFPN	Post-encoding	R	RUB
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
