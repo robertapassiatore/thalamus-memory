@@ -1,5 +1,6 @@
 ## load package
 library(lavaan)
+library(effectsize)
 
 ##### sem baseline resting state to performance through task activity during encoding (m1) and retrieval (m2)
 model <- '  # direct effect
@@ -30,3 +31,4 @@ mediation_results <- sem(model, data = data, se = "bootstrap", missing = "ml",
 #save(mediation_results, file = 'mediation_results.RData')
 summary(mediation_results, standardized = TRUE, fit.measures = TRUE, rsquare = TRUE)
 res.med = standardizedSolution(mediation_results)
+effect_size = z_to_r(res.med$z, n=mediation_results@Data@nobs[[1]], ci = 0.95)
