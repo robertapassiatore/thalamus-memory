@@ -26,7 +26,7 @@ digraph mediation_l_uniba {    # 'digraph' means 'directional graph', then the g
   #######
   
   X [pos = '-3,-0.5!',label = 'X: LFPN\n Medial Subdivision\n Baseline', fillcolor = Linen]
-  Y [pos = '5,-0.5!', label = 'Y: Associative Memory\n Index', fillcolor = Linen]
+  Y [pos = '5,-0.5!', label = 'Y: Memory\n Index', fillcolor = Linen]
   M1 [pos = '-1,2!', label =  'M1: L BOLD\n Anterior Subdivision\n Encoding']
   M2 [pos = '3,2!', label = 'M2: L BOLD\n Medial Subdivision\n Retrieval']
   caption [pos = '0.8,-1!', label = 'Model fit: TLI=0.60; SRMR=0.072; CFI=0.95']
@@ -59,7 +59,7 @@ digraph mediation_r_uniba {    # 'digraph' means 'directional graph', then the g
   #######
   
   X [pos = '-3,-0.5!',label = 'X: RFPN\n Medial Subdivision\n Baseline', fillcolor = Linen]
-  Y [pos = '5,-0.5!', label = 'Y: Associative Memory\n Index', fillcolor = Linen]
+  Y [pos = '5,-0.5!', label = 'Y: Memory\n Index', fillcolor = Linen]
   M1 [pos = '-1,2!', label =  'M1: R BOLD\n Anterior Subdivision\n Encoding']
   M2 [pos = '3,2!', label = 'M2: R BOLD\n Medial Subdivision\n Retrieval']
   caption [pos = '0.8,-1!', label = 'Model fit: TLI=0.99; SRMR=0.014; CFI=0.99']
@@ -94,7 +94,7 @@ digraph mediation_l_bochum {    # 'digraph' means 'directional graph', then the 
   #######
   
   X [pos = '-3,-0.5!',label = 'X: LFPN\n Medial Subdivision\n Baseline', fillcolor = Linen]
-  Y [pos = '5,-0.5!', label = 'Y: Associative Memory\n Index', fillcolor = Linen]
+  Y [pos = '5,-0.5!', label = 'Y: Memory\n Index', fillcolor = Linen]
   M1 [pos = '-1,2!', label =  'M1: L BOLD\n Anterior Subdivision\n Encoding']
   M2 [pos = '3,2!', label = 'M2: L BOLD\n Medial Subdivision\n Retrieval']
   caption [pos = '0.8,-1!', label = 'Model fit: TLI=0.60; SRMR=0.09; CFI=0.96']
@@ -127,7 +127,7 @@ digraph mediation_r_bochum {    # 'digraph' means 'directional graph', then the 
   #######
   
   X [pos = '-3,-0.5!',label = 'X: RFPN\n Medial Subdivision\n Baseline', fillcolor = Linen]
-  Y [pos = '5,-0.5!', label = 'Y: Associative Memory\n Index', fillcolor = Linen]
+  Y [pos = '5,-0.5!', label = 'Y: Memory\n Index', fillcolor = Linen]
   M1 [pos = '-1,2!', label =  'M1: R BOLD\n Anterior Subdivision\n Encoding']
   M2 [pos = '3,2!', label = 'M2: R BOLD\n Medial Subdivision\n Retrieval']
   caption [pos = '0.8,-1!', label = 'Model fit: TLI=0.7; SRMR=0.07; CFI=0.90']
