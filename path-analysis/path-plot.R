@@ -102,10 +102,10 @@ digraph mediation_l_bochum {    # 'digraph' means 'directional graph', then the 
   # edge definitions with the node IDs
   X->Y [label = '0.09', color='#c00000', style = 'dashed', fontname = 'helvetica']
   X->M1 [label = '0.39**', fontname = 'helvetica-bold']
-  X->M2 [label = '0.51**', fontname = 'helvetica-bold']
+  X->M2 [label = '0.51**', style=bold, fontname = 'helvetica-bold']
   M1->M2 [label = '0.16', style=dashed, fontname = 'helvetica']
   M1->Y [xlabel = '-0.45           ',  style=dashed, fontname = 'helvetica', dir = forward]
-  M2->Y [xlabel = '0.81**    ', fontname = 'helvetica-bold']
+  M2->Y [xlabel = '0.81**    ', style=bold, fontname = 'helvetica-bold']
   caption [shape = 'plaintext', style='bold', fontname = 'helvetica-bold']
   }")
 
