@@ -199,6 +199,7 @@ for (network in networks) {
                      family_part2 = gaussian(link = "identity"))
       
       print(summary(tpmodel))
+      print(AME(tpmodel))
     }
   }
 }
